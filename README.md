@@ -1,5 +1,12 @@
-### Hi there 👋 I'm Lexo.
+### 👋 Hi there! :)
+I'm Lexo Liu, a senior high student, and a developer💻.
 
-- I'm working on an ergonomically designed web framework in Rust, and I draw inspiration from axum and tide.
-- I'm interested in some low-level aspects and struggling to understand them.But I'm just a beginner
-- Feel free to drop me a message! [me@lexo.cool](mailto:me@lexo.cool)
+I know nothing, but I listen. Feel free to [drop me a message](mailto:me@lexo.cool)!😏
+
+I'm currently working on a cross-platform GUI kit named WaterUI; it hasn't been released yet, but it's coming soon!
+
+# About me
+
+I am but a phantom... Random ideas flash through my mind all the time. I jot them down in a blazing beat, resulting in quite a mess.
+
+My work involves sifting through this mess to find something valuable. It is what I do.
